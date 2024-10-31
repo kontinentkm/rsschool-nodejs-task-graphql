@@ -1,3 +1,4 @@
+//src\routes\graphql\schemas.ts
 import { Type } from '@fastify/type-provider-typebox';
 
 export const gqlResponseSchema = Type.Partial(
