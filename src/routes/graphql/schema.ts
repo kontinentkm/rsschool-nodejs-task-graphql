@@ -1,3 +1,4 @@
+//src\routes\graphql\schema.ts
 import {
   GraphQLObjectType,
   GraphQLSchema,
