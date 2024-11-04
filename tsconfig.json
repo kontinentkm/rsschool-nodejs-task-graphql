@@ -6,6 +6,8 @@
     "outDir": "dist",
     "sourceMap": true,
     "moduleResolution": "nodenext",
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
     "module": "NodeNext"
   },
   "include": ["src/**/*.ts"]
